@@ -23,7 +23,7 @@ Desenvolver uma extrusora para produção de filamentos PET reciclado com revest
 ## ⚙️ PROCESSO DE EXTUSÃO  
 | Componente             | Função                                                                   |  
 |------------------------|---------------------------------------------------------------------------|  
-| **Hot End**            | Fusão do PET a 250°C com módulo W1209                                   |  
+| **Hot End**            | Fusão do PET a 250°C                                    |  
 | **Zona Líquida**       | Revestimento superficial com glicerina                                   |  
 | **Zona de Pó**         | Aplicação de amido de milho                                              |  
 | **Enrolador**          | Bobinamento automático com motor de passo                                |  
