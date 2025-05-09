@@ -34,8 +34,8 @@ Desenvolver uma extrusora para produção de filamentos PET reciclado com revest
 ## 📅 CRONOGRAMA POR SEMESTRE  
 | Semestre | Atividades-Chave                                                         | Status      |  
 |----------|--------------------------------------------------------------------------|-------------|  
-| **4º**   | Montagem da estrutura básica e componentes críticos                      | ✅ Concluído |  
-| **5º**   | Testes de integração e ajustes mecânicos/eletrônicos                     | ⏳ Em Andamento |  
+| **4º**   | Montagem da estrutura básica e componentes críticos                      | ⏳Em Andamento
+| **5º**   | Testes de integração e ajustes mecânicos/eletrônicos                     | ⏳ Pendente |  
 | **6º**   | Otimização final e testes com filamentos compostos                       | ⏳ Pendente  |  
 
 ---
