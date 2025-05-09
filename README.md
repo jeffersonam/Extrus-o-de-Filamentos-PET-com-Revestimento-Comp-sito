@@ -13,7 +13,7 @@ Desenvolver uma extrusora para produção de filamentos PET reciclado com revest
 ### Específicos  
 | Etapa                  | Descrição                                                                 |  
 |------------------------|---------------------------------------------------------------------------|  
-| **Extrusora Makee    | Construção de sistema com células de armazenamento de compossitos          |  
+| **Extrusora Maker    | Construção de sistema com células de armazenamento de compossitos          |  
 | **Alimentação**        | Uso de tiras de PET cortadas (modelos STL)                               |  
 | **Controle Térmico**   | Implementação de zonas de resfriamento com coolers e W1209 (250°C)       |  
 | **Automação**          | Acionamento por motor de passo/DC e programação em linguagem C           |  
